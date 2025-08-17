@@ -3,49 +3,11 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: Dribbble
-      logo: 
-      url: https://dribbble.com/
-      description: 全球UI设计师作品分享平台。
-    - title: Behance
-      url: https://behance.net/
-      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
     - title: 二维码演示
       qrcode: images/qrcodes/cli.png
       logo: 
       url: https://cli.im/url
       description: 二维码演示，手机扫一扫，也可以点击
-    - title: UI中国
-      url: https://www.ui.cn/
-      description: 图形交互与界面设计交流、作品展示、学习平台。
-    - title: 站酷
-      url: https://www.zcool.com.cn/
-      description: 中国人气设计师互动平台
-    - title: Pinterest
-      logo:
-      url: https://www.pinterest.com/
-      description: 全球美图收藏采集站
-    - title: 花瓣
-      logo: 
-      url: https://huaban.com/
-      description: 收集灵感,保存有用的素材
-    - title: Medium
-      url: https://medium.com/
-      description: 高质量设计文章
-    - title: 优设
-      logo:  
-      url: https://www.uisdc.com/
-      description: 设计师交流学习平台
-    - title: Producthunt
-      url: https://www.producthunt.com/
-      description: 发现新鲜有趣的产品
-    - title: Youtube
-      url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
-    - title: Google
-      url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
-    
 
 - taxonomy: Cos涩图
   icon: fa-regular fa-newspaper
@@ -66,6 +28,18 @@
       logo: https://coomer.st/assets/favicon-CPB6l7kH.ico
       url: https://coomer.st/
       description: Onlyfans Fansly 分享
+    - title: Gallery Epic
+      logo: https://galleryepic.com/favicon.ico
+      url: https://galleryepic.com/zh
+      description: 
+    - title: Cosplaytele
+      logo: https://cosplaytele.com/wp-content/uploads/2024/01/cropped-icon-cosplaytele-1-32x32.png
+      url: https://cosplaytele.com/
+      description: 涩涩cos视频
+    - title: Cosplay18 – Cosplay Porn Pictures
+      logo: https://cosplay18.pics/wp-content/uploads/2023/10/Cosplay18_icon.png
+      url: https://cosplay18.pics/
+      description: 涩涩cos视频
 
 - taxonomy: 二次元
   icon: fa-regular fa-newspaper
@@ -74,6 +48,10 @@
       logo: https://e-hentai.org/favicon.ico
       url: https://e-hentai.org/
       description: The Free Hentai Doujinshi, Manga and Image Gallery System
+    - title: 禁漫天堂
+      logo: https://18comic.vip/favicon.ico
+      url: https://18comic.vip/
+      description: 免費A漫
     - title: Kemono
       logo: https://kemono.cr/assets/favicon-CPB6l7kH.ico
       url: https://kemono.cr/
@@ -87,10 +65,9 @@
       url: http://asmr.one/
       description: 
     - title: ASMR基佬中心
-      logo: 
+      logo: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
       url: https://asmrgay.com/
       description:
-    - title: ASMR吧
 
 - taxonomy: 白嫖只因场
   icon: fa-regular fa-lightbulb
@@ -104,6 +81,42 @@
       url: https://d2ma0e5kn2hajt.cloudfront.net/#/register?code=dOeqKdO0
       description: IPv6 只因场
 
+- taxonomy: 临时网盘
+  icon: fa-regular fa-cloud
+  links:
+    - title: Transfer.it
+      logo: https://st.transfer.it/images/favicons/favicon.ico
+      url: https://transfer.it/
+      description: 自上传起90天后删除
+    - title: Ranoz
+      logo: https://ranoz.gg/favicon.ico
+      url: https://ranoz.gg/
+      description: 不活跃30天后删除
+    - title: KrakenFiles.com
+      logo: https://krakenfiles.com/favicon.ico
+      url: https://krakenfiles.com/
+      description: 不活跃90天后删除
+
+- taxonomy: 长期网盘
+  icon: fa-regular fa-cloud
+  links:
+    - title: CyberFile
+      logo: https://cyberfiles-static.b-cdn.net/assets/i/cyberfile_fav.png
+      url: https://cyberfile.me/
+      description: Easily Share your Files
+
+- taxonomy: 图床
+  icon: fa-regular fa-image
+  links:
+    - title: SM.MS
+      logo: https://smms.app/favicon-16x16.png
+      url: https://smms.app/
+      description: 老牌博客图床，禁止涩涩！！！
+    - title: IM.GE
+      logo: https://im.ge/content/images/system/favicon_1622482133743_ac8bd9.png
+      url: https://im.ge/
+      description: 
+
 - taxonomy: 杰哥你有好多A片喔
   icon: fa-regular fa-film
   links:
@@ -115,14 +128,14 @@
       logo: https://www.javbus.com/favicon.ico
       url: https://www.javbus.com/
       description: AV磁力連結分享 - 日本成人影片資料庫
-    - title: AVMoo
-      logo: 
-      url: https://avmoo.com/
-      description: 日本成人影片搜索引擎
 
 - taxonomy: 我叫磁力棒
   icon: fa-regular fa-magnet
   links:
+    - title: QBEE下载器
+      logo: https://github.githubassets.com/favicons/favicon.svg
+      url: https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
+      description: 迅雷吸血，传统QB不防吸血，建议使用QBEE
     - title: Sukebei
       logo: https://sukebei.nyaa.si/static/favicon.png
       url: https://sukebei.nyaa.si/
@@ -143,10 +156,6 @@
       logo: https://www.javbus.com/favicon.ico
       url: https://www.javbus.com/forum/
       description: JavBus
-    - title: Hacker News
-      logo: 
-      url: https://news.ycombinator.com/
-      description: 程序员的新闻网站
 
 - taxonomy: 友情链接
   icon: fa-link
