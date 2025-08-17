@@ -36,13 +36,13 @@
       logo: https://cosplaytele.com/wp-content/uploads/2024/01/cropped-icon-cosplaytele-1-32x32.png
       url: https://cosplaytele.com/
       description: 涩涩cos视频
-    - title: Cosplay18 – Cosplay Porn Pictures
+    - title: Cosplay18
       logo: https://cosplay18.pics/wp-content/uploads/2023/10/Cosplay18_icon.png
       url: https://cosplay18.pics/
       description: 涩涩cos视频
 
 - taxonomy: 二次元
-  icon: fa-regular fa-newspaper
+  icon: fa-newspaper
   links: 
     - title: E-Hentai Galleries
       logo: https://e-hentai.org/favicon.ico
@@ -58,7 +58,7 @@
       description:
 
 - taxonomy: 奥术魔刃
-  icon: fa-regular fa-folder-open
+  icon: fa-folder-open
   links:
     - title: ASMR Online
       logo: 
@@ -70,7 +70,7 @@
       description:
 
 - taxonomy: 白嫖只因场
-  icon: fa-regular fa-lightbulb
+  icon: fa-lightbulb
   links:
     - title: iKuuu
       logo: 
@@ -82,7 +82,7 @@
       description: IPv6 只因场
 
 - taxonomy: 临时网盘
-  icon: fa-regular fa-cloud
+  icon: fa-cloud
   links:
     - title: Transfer.it
       logo: https://st.transfer.it/images/favicons/favicon.ico
@@ -93,12 +93,12 @@
       url: https://ranoz.gg/
       description: 不活跃30天后删除
     - title: KrakenFiles.com
-      logo: https://krakenfiles.com/favicon.ico
+      logo: https://krakenfiles.com/images/favicon.png
       url: https://krakenfiles.com/
       description: 不活跃90天后删除
 
 - taxonomy: 长期网盘
-  icon: fa-regular fa-cloud
+  icon: fa-cloud
   links:
     - title: CyberFile
       logo: https://cyberfiles-static.b-cdn.net/assets/i/cyberfile_fav.png
@@ -106,7 +106,7 @@
       description: Easily Share your Files
 
 - taxonomy: 图床
-  icon: fa-regular fa-image
+  icon: fa-image
   links:
     - title: SM.MS
       logo: https://smms.app/favicon-16x16.png
@@ -118,7 +118,7 @@
       description: 
 
 - taxonomy: 杰哥你有好多A片喔
-  icon: fa-regular fa-film
+  icon: fa-film
   links:
     - title: MissAV
       logo: https://missav.ai/img/favicon.ico
@@ -130,7 +130,7 @@
       description: AV磁力連結分享 - 日本成人影片資料庫
 
 - taxonomy: 我叫磁力棒
-  icon: fa-regular fa-magnet
+  icon: fa-magnet
   links:
     - title: QBEE下载器
       logo: https://github.githubassets.com/favicons/favicon.svg
@@ -146,7 +146,7 @@
       description: Torrent Search Engine
 
 - taxonomy: 涩涩论坛
-  icon: fa-regular fa-comments
+  icon: fa-comments
   links:
     - title: 南+ South Plus
       logo: https://north-plus.net/favicon.ico
