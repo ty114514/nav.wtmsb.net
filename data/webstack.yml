@@ -47,21 +47,50 @@
       description: 全球最大的UI学习分享平台
     
 
-- taxonomy: 涩图
+- taxonomy: Cos涩图
   icon: fa-regular fa-newspaper
   links: 
     - title: Buondua
-      logo: 
+      logo: https://buondua.com/templates/duachua/watermelon-icon.png
       url: https://buondua.com/
       description: Chinese, Korean, sexy, hot, nude girl photo collections
     - title: MissKon.com
-      logo: 
+      logo: https://misskon.com/media/2023/12/favicon.ico
       url: https://misskon.com/
       description: Daily Hottie with High Quality
     - title: 4KHD
       logo: 
       url: https://www.4khd.com/
       description: HD Beautiful Girls
+    - title: Coomer
+      logo: https://coomer.st/assets/favicon-CPB6l7kH.ico
+      url: https://coomer.st/
+      description: Onlyfans Fansly 分享
+
+- taxonomy: 二次元
+  icon: fa-regular fa-newspaper
+  links: 
+    - title: E-Hentai Galleries
+      logo: https://e-hentai.org/favicon.ico
+      url: https://e-hentai.org/
+      description: The Free Hentai Doujinshi, Manga and Image Gallery System
+    - title: Kemono
+      logo: https://kemono.cr/assets/favicon-CPB6l7kH.ico
+      url: https://kemono.cr/
+      description:
+
+- taxonomy: 奥术魔刃
+  icon: fa-regular fa-folder-open
+  links:
+    - title: ASMR Online
+      logo: 
+      url: http://asmr.one/
+      description: 
+    - title: ASMR基佬中心
+      logo: 
+      url: https://asmrgay.com/
+      description:
+    - title: ASMR吧
 
 - taxonomy: 白嫖只因场
   icon: fa-regular fa-lightbulb
@@ -69,11 +98,55 @@
     - title: iKuuu
       logo: 
       url: https://ikuuu.de
-      description: 发现新鲜有趣的产品
+      description: 
     - title: Helium Network
       logo: 
       url: https://d2ma0e5kn2hajt.cloudfront.net/#/register?code=dOeqKdO0
       description: IPv6 只因场
+
+- taxonomy: 杰哥你有好多A片喔
+  icon: fa-regular fa-film
+  links:
+    - title: MissAV
+      logo: https://missav.ai/img/favicon.ico
+      url: https://missav.ai/
+      description: 免費高清AV在線看
+    - title: JavBus
+      logo: https://www.javbus.com/favicon.ico
+      url: https://www.javbus.com/
+      description: AV磁力連結分享 - 日本成人影片資料庫
+    - title: AVMoo
+      logo: 
+      url: https://avmoo.com/
+      description: 日本成人影片搜索引擎
+
+- taxonomy: 我叫磁力棒
+  icon: fa-regular fa-magnet
+  links:
+    - title: Sukebei
+      logo: https://sukebei.nyaa.si/static/favicon.png
+      url: https://sukebei.nyaa.si/
+      description: 
+    - title: BT4G
+      logo: https://bt4gprx.com/static/favicon.ico
+      url: https://bt4gprx.com/
+      description: Torrent Search Engine
+
+- taxonomy: 涩涩论坛
+  icon: fa-regular fa-comments
+  links:
+    - title: 南+ South Plus
+      logo: https://north-plus.net/favicon.ico
+      url: https://north-plus.net/
+      description: 
+    - title: 老司機論壇
+      logo: https://www.javbus.com/favicon.ico
+      url: https://www.javbus.com/forum/
+      description: JavBus
+    - title: Hacker News
+      logo: 
+      url: https://news.ycombinator.com/
+      description: 程序员的新闻网站
 
 - taxonomy: 友情链接
   icon: fa-link
