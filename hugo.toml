@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "zh-CN"
 title = "网址导航"
 theme = "hugo-webstack"
@@ -7,12 +7,12 @@ theme = "hugo-webstack"
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "oulh"
+copyright = "XiWu"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "网址导航,webstack,hugo"
-  description = "Webstack Hugo版主题,网址导航"
+  keywords = "先辈小屋"
+  description = "先辈小屋 ｜ 导航"
 
 #是否开启搜索栏，true开启，false关闭
 [params.search]
@@ -31,7 +31,7 @@ copyright = "oulh"
   
 #桌面端右上角code按钮
 [params.github]
-  enable = true #true显示 false隐藏
+  enable = false #true显示 false隐藏
   url = "https://github.com/oulh/nav"
   
 [permalinks]  
