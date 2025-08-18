@@ -40,6 +40,15 @@
       logo: https://cosplay18.pics/wp-content/uploads/2023/10/Cosplay18_icon.png
       url: https://cosplay18.pics/
       description: 涩涩cos
+    - title: KBJFree
+      logo: https://kbjfree.com/favicon.svg
+      url: https://kbjfree.com/
+      description: Watch free korean bj, fantrie, sexy cam girls, onlyfans leaked
+    - title: 雪糕收集屋
+      logo: https://wsrv.nl/?w=64&h=64&fit=cover&mask=circle&url=ssl:cdn5.telesco.pe/file/kOvGivNSzy3SNqfuL9Eckhzz1D0zQtDPlj9cJV_9zEPrM7h2Ys7AEvPlTEMU3S539zzZU224yE4ulM_nF6mfGDiNFZSRv0viOnP87qQ8YF7vQRMqyKs1reVBOmILTEWVkYLDhqu55ymorJFZjFz7FYiBvYwpsamEwV1_29TlnJwUQnYwH1jAHtAbuQtPDpxoz64vHBnFyk8-o5fNJkxSq5sRpC4B_BHgVQBfQGuRTCVQjMlnBeI8uexVqqKQCKxQ46wItBEUbbbYZd3Roczf8OYXhEip9af5BeJ2MbN0r-vwYUOryMBEV9tTnHh812BMPQWwuU5Mk6ziWRYJBMreXA.jpg
+      url: https://xuegaowu.pages.dev/
+      description: 南+大佬手搓的白丝图片站
+      #雪糕收集屋 - 只收集高质量的涩涩图片
 
 - taxonomy: 二次元
   icon: fa-newspaper
@@ -56,6 +65,18 @@
       logo: https://kemono.cr/assets/favicon-CPB6l7kH.ico
       url: https://kemono.cr/
       description:
+    - title: 蜜柑计划 - Mikan Project
+      logo: https://mikanani.me/images/favicon.ico?v=2
+      url: https://mikanani.me/
+      description: 动漫磁力链接整合站
+    - title: girigiri愛動漫~
+      logo: https://anime.girigirilove.com/upload/site/20231121-1/fdd2694db66628a9deadd86e50aedd43.png
+      url: just a little love~Σ(っ °Д °;)っ∇讓世界更萌
+      description: 轻小说翻译站，支持中文和英文girigiri愛動漫
+    - title: Hanime1.me
+      logo: https://hanime1.me/favicon.ico
+      url: https://hanime1.me/
+      description: H動漫/裏番/線上看
 
 - taxonomy: 奥术魔刃
   icon: fa-folder-open
@@ -140,6 +161,9 @@
       logo: https://www.javbus.com/favicon.ico
       url: https://www.javbus.com/
       description: AV磁力連結分享 - 日本成人影片資料庫
+
+- taxonomy: galgame
+
 
 - taxonomy: 小黄书
   icon: fa-book
