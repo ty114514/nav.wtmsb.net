@@ -31,7 +31,7 @@
     - title: Gallery Epic
       logo: https://galleryepic.com/favicon.ico
       url: https://galleryepic.com/zh
-      description: 
+      description: 正经和擦边cos，界面很漂亮
     - title: Cosplaytele
       logo: https://cosplaytele.com/wp-content/uploads/2024/01/cropped-icon-cosplaytele-1-32x32.png
       url: https://cosplaytele.com/
@@ -39,7 +39,7 @@
     - title: Cosplay18
       logo: https://cosplay18.pics/wp-content/uploads/2023/10/Cosplay18_icon.png
       url: https://cosplay18.pics/
-      description: 涩涩cos视频
+      description: 涩涩cos
 
 - taxonomy: 二次元
   icon: fa-newspaper
@@ -80,6 +80,18 @@
       logo: 
       url: https://d2ma0e5kn2hajt.cloudfront.net/#/register?code=dOeqKdO0
       description: IPv6 只因场
+    - title: IPCheck.ing
+      logo: https://ipcheck.ing/favicon.svg
+      url: https://ipcheck.ing
+      description: 查看我的 IP 地址 - 查询本机 IP 地址及归属地 - 查看 WebRTC 连接 IP - DNS 泄露检测 - 网速测试 - Jason Ng 阿禅开源作品
+    - title: Sukka
+      logo: https://cdn.skk.moe/favicon/favicon.ico?host=ip.skk.moe
+      url: https://ip.skk.moe/
+      description: 查看我的 IP 地址 | 查询本机 IP 地址及归属地 | 查看 DNS 出口 IP | 查看递归 DNS 信息 | 测试 CDN 命中节点
+    - title: ITDOG
+      logo: https://www.itdog.cn/favicon.ico
+      url: https://www.itdog.cn/
+      description: 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想
 
 - taxonomy: 临时网盘
   icon: fa-cloud
@@ -128,6 +140,14 @@
       logo: https://www.javbus.com/favicon.ico
       url: https://www.javbus.com/
       description: AV磁力連結分享 - 日本成人影片資料庫
+
+- taxonomy: 小黄书
+  icon: fa-book
+  links:
+    - title: 可穿戴科技
+      logo: https://wt.tepis.me/favicon.png
+      url: https://wt.tepis.me/
+      description: 227w字的大型连续涩涩科幻小说
 
 - taxonomy: 我叫磁力棒
   icon: fa-magnet
